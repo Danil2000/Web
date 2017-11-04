@@ -24,4 +24,70 @@
 	background-repeat: repeat-y;
 	background-repeat: no-repeat;
 	background-position: bottom right;
+	padding: 20px 10px
+	font-family: 'Verdana';
+	font-size: 25px;
+	margin: 0 auto; 
+	display: table;
+	color: green
+}
+.victory>span {
+	font-weight: bold;
+	font-style: italic;
+	text-decoration: underline;
+	text-transform: uppercase;
+	letter-spacing: 1em;
+}
+.block3 {
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	z-index: 5;
+	background-color: red;
+	background-image: url(http://lh3.googleusercontent.com/vg8tfNHTsDZ892ln7vGDXKeOTVswUkpyf3vEJs8bJTQiQ9O_cton2cvYnCGrtGU3Lpc=w300);
+	background-clip: border-box;
+	margin: 100px 200px;
+	opacity: 0.5;
+
+}
+
+.block4 {
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	background-color: blue;
+	margin: 200px 300px;
+	opacity: 0;
+}
+.table1 {
+	border: 1px solid black;
+}
+.table4 {
+
+}
+.table2{
+	border: 2px dotted blue;
+	background-color: red;
+	width: 30%;
+}
+.table3 {
+	background-color: blue;
+	width: 200px;
+}
+.table4 {
+	background-color: yellow;
+	width: 10px;
+}
+
+
+.table5 {
+	width: 100%;
+
+}
+.table6 {
+	width: 50%;
+	margin: 50px 0px;
+}
+.table  {
+
 }
