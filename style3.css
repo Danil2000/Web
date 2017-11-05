@@ -1,0 +1,21 @@
+.prs1 {
+	width: 100px;
+	height: 100px;
+	background-color: black; 
+}
+.prs2 {
+	width: 100px;
+	height: 100px;
+	background-color: pink; 
+}
+.prs3 {
+	width: 100px;
+	height: 100px;
+	background-color: green; 
+}
+#block {
+	width: 200px;
+	height: 100px;
+	background-color: green;
+	opacity: 1; 
+}
